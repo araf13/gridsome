@@ -1,5 +1,6 @@
 <template>
   <Layout>
+  <head>    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  </head>
     
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <g-image alt="Example image" src="~/favicon.png" width="135" />
